@@ -1,4 +1,4 @@
-package Refactor2;
+package com.bridgelabz.Refactor2;
 
 public class FindMaximumNumber <T extends  Comparable<T>>{
     private T a;
